@@ -13,7 +13,7 @@ body {
     background-color: var(--background);
     color: var(--text);
     font-family: 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.25;
+    line-height: 1.5;
     margin: 48px;
 }
 
@@ -25,7 +25,6 @@ body {
 }
 
 img {
-    width: 100%;
     border-radius: 5px;
     box-shadow: var(--shadows) 0px 0px 20px;
 }
@@ -45,8 +44,13 @@ a {
 
 table, th, td {
     border: 1px solid var(--accent);
-    padding: 10px;
+    padding: 20px;
     background-color: var(--alt);
     border-radius: 10px;
     border-collapse: collapse;
+    width: 100%
   }
+
+.small-table {
+    width: 35%    
+}

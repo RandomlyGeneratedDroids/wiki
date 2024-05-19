@@ -8,4 +8,4 @@ As a new player, you would start the game as either the Brawler or the Survivali
 <hr>
 
 ## Lobby:
-<img src="assets/images/lobby.png">
+<img src="assets/images/lobby.png" width="100%">
