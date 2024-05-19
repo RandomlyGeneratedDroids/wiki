@@ -6,11 +6,11 @@ Kits are an essential part of the game, as you are forced to use one of them eve
 	<colgroup span="2" width="85"></colgroup>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Brawler&quot;}"><a href="#Br">Brawler</a></td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;a&quot;}"><img src="/assets/images/Brawler.webp"></td>
+		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;a&quot;}"><img src="assets/images/Brawler.webp"></td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Survivalist&quot;}"><a href="#Sv">Survivalist</a></td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;b&quot;}"><img src="/assets/images/Survivalist.webp"></td>
+		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;b&quot;}"><img src="assets/images/Survivalist.webp"></td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Adventurer&quot;}">Adventurer</td>
