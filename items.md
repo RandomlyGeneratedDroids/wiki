@@ -1,7 +1,7 @@
 
 # Items Page
 
-| Items
+| Items |
 |-|
 | A
 | B
@@ -18,7 +18,7 @@
 | M 
 | N 
 | O 
-| P 
+| P
 | Q 
 | R 
 | S 

@@ -66,17 +66,17 @@ Kits are an essential part of the game, as you are forced to use one of them eve
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Mole &quot;}">Paladin</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;o&quot;}"><img src="assets/images/Blademaster.webp"></td>
+		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;o&quot;}"><img src="assets/images/Paladin.png"></td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Mole &quot;}">Blademaster</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;o&quot;}"><img src="assets/images/Blademaster.webp"></td>
+		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;o&quot;}"><img src="assets/images/Blademaster.png"></td>
 	</tr>
 </table>
 
 <hr id="Br">
 
-# Brawler <img src="assets/images/Stone_Sword.webp" width="24px">
+# Brawler <img src="assets/images/Stone_Sword.webp" width="32px">
 
 *"The brawler utilizes simple but effective moves that increase the brawlers damage over time. Very easy for new players."* - The ingame inventory.
 
@@ -103,7 +103,7 @@ The Brawler has one starting weapon, as well as two abilities and one passive.
 
 <hr id="Sv">
 
-# Survivalist <img src="assets/images/Shield.webp" width="24px">
+# Survivalist <img src="assets/images/Shield.webp" width="32px">
 
 *"The survivalist can keep themselves safe throughout runs, being able to give themselves defense boosts and heal much more."* - The ingame inventory.
 
@@ -132,7 +132,7 @@ The Survivalist has four items, two of which are abilities and one of which is a
 
 <hr id="Ad">
 
-# Adventurer <img src="assets/images/Wooden_Sword.png" width="24px">
+# Adventurer <img src="assets/images/Wooden_Sword.png" width="32px">
 
 *"The Adventurer has an incredibly plain kit, but in turn gains x2 circuits from picking them up."* - The ingame inventory.
 
@@ -158,7 +158,7 @@ The Adventurer starts with one item, with a singular ability as a part of this i
 
 <hr id="Al">
 
-# Allay
+# Allay <img src="assets/images/Allay.png" width="32px">
 
 *"Requested by their lover to enter the battlefield, the allay supports their team in battle, bringing items to support their friends."* - The ingame inventory.
 
@@ -188,7 +188,7 @@ The Allay starts with 4 items, 3 of which are abilities.
 
 <hr id="Dk">
 
-# Dark Knight
+# Dark Knight <img src="assets/images/Flint.webp" width="32px">
 
 *"Your able to corrupt darkness to attack other droids. You're also physically capable of utilizing your weapons and your spells at the same time."* - The ingame inventory.
 
@@ -220,7 +220,7 @@ The Dark Knight starts with 5 items, 2 of which are abilities and one of which i
 
 <hr id="De">
 
-# Demolitionist
+# Demolitionist <img src="assets/images/TNT.webp" width="32px">
 
 *"They're best known for their destructive explosions, able to wipe droids fairly easily."* - The ingame inventory.
 
@@ -248,7 +248,7 @@ The Demolitionist starts with 5 items, 3 of which are abilities, one of which is
 
 <hr id="En">
 
-# Engineer
+# Engineer <img src="assets/images/Netherite_Pickaxe.png" width="32px">
 
 *"The engineer uses their skills in robotics to create stronger and more efficient Anti Droids to aid their party."* - The ingame inventory.
 
@@ -277,7 +277,7 @@ The Engineer starts with 6 different items, 1 of which is a melee weapon, 1 of w
 
 <hr id="He">
 
-# Healer
+# Healer <img src="assets/images/Redstone_Comparator.webp" width="32px">
 
 *"While severely lacking in offensive capabilities, the healer instead utilizes healing magics in order to support their team."* - The ingame inventory.
 
@@ -303,7 +303,7 @@ Healer is a support class that uses healing spells to keep their team alive in b
 
 <hr id="In">
 
-# Infantry
+# Infantry <img src="assets/images/Iron_Horse_Armor.png" width="32px">
 
 * *"Pulled straight from the frontlines of WWI, the Infantry uses their bolt-action rifle to steadily pick off enemies with terrifying precision."* - The ingame inventory.
 
