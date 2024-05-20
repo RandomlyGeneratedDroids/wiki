@@ -33,11 +33,11 @@ Kits are an essential part of the game, as you are forced to use one of them eve
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;g&quot;}"><img src="assets/images/Engineer.webp"></td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Healer &quot;}">Healer </td>
+		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Healer &quot;}"><a href="#He">Healer</a></td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;h&quot;}"><img src="assets/images/Healer.webp"></td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Infantry &quot;}">Infantry </td>
+		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Infantry &quot;}"><a href="#In">Infantry</a></td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;I&quot;}"><img src="assets/images/Infantry.webp"></td>
 	</tr>
 	<tr>
@@ -274,3 +274,53 @@ The Engineer starts with 6 different items, 1 of which is a melee weapon, 1 of w
 ### Trivia
 * Engineer is referenced in a tip, saying "10 Engineers = 20 Anti-Droids". This is a reference to the 2 Engineer Banners that this kit starts with.
 * *"The Super Enhance works on one other kit. (Hint: Super Rogue Droid)"* - That Guy
+
+<hr id="He">
+
+# Healer
+
+*"While severely lacking in offensive capabilities, the healer instead utilizes healing magics in order to support their team."* - The ingame inventory.
+
+Healer is a Kit you get from the Class Shop.
+
+## Description
+
+Healer is a support class that uses healing spells to keep their team alive in battle.
+
+## Items & Abilities
+
+| Name | Uses | Description |
+|--|-|----|
+| Copper Sword | N/A | Deals 4 Damage. |
+| Healing Spell | 5 Mana | Spawns a large circle that heals players in its radius over time, totalling 7.5 health healed per player. |
+| Healing Machine Gun | 10 Mana | Shoots many small homing projectiles that heal allies. |
+| Mana Gain | 5 Energy | Gain 3 Mana. Effectively acts as a conversion from 5 energy to 3 mana. |
+| Blue Heart | N/A | You gain 1 mana per new room. Passive. |
+
+### Trivia
+* Healing Spell used to be part of the Mage Stick as well, though it was since removed.
+* Healer is one of the only classes in the game that has access to the Mana Gain ability.
+
+<hr id="In">
+
+# Infantry
+
+* *"Pulled straight from the frontlines of WWI, the Infantry uses their bolt-action rifle to steadily pick off enemies with terrifying precision."* - The ingame inventory.
+
+Infantry is a Kit you get from the Class Shop.
+
+## Description
+
+Infantry is a long range class that specializes in picking off specific enemies.
+
+## Items & Abilities
+
+| Name | Uses | Description |
+|--|-|----|
+| Lee-Enfield | 1 Ammunition | Fires a long range projectile that pierces through 2 enemies (hitting 3 total), dealing 8 damage.|
+| Ammunition x10 | N/A | Acts as ammo for the Lee-Enfield and its evolutions. |
+| Reload | 2 Energy | Refills your ammo to max (default is 10). |
+| Artillery Flare | 10 Energy | Throws a projectile that, after a delay, spawns many explosions from the sky, dealing damage in a large area.|
+
+### Trivia
+* Infantry was the first class to start with an evolvable weapon, that being Lee-Enfield.
