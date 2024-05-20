@@ -48,9 +48,9 @@ table, th, td {
     background-color: var(--alt);
     border-radius: 10px;
     border-collapse: collapse;
-    width: 100%
+    width: 35%
   }
 
-.small-table {
-    width: 35%    
+.big-table { 
+    width: 100%;
 }

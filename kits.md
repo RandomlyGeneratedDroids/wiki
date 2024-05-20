@@ -2,7 +2,7 @@
 
 Kits are an essential part of the game, as you are forced to use one of them every game, and these may even change how you play. There are currently **14** kits, being these: 
 
-<table>
+<table class="big-table">
 	<colgroup span="2" width="85"></colgroup>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Brawler&quot;}"><a href="#Br">Brawler</a></td>
@@ -13,7 +13,7 @@ Kits are an essential part of the game, as you are forced to use one of them eve
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;b&quot;}"><img src="assets/images/Survivalist.webp"></td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Adventurer&quot;}">Adventurer</td>
+		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Adventurer&quot;}"><a href="#Ad">Adventurer</a></td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;c&quot;}"><img src="assets/images/Adventurer.webp"></td>
 	</tr>
 	<tr>
@@ -72,7 +72,7 @@ Kits are an essential part of the game, as you are forced to use one of them eve
 
 *"The brawler utilizes simple but effective moves that increase the brawlers damage over time. Very easy for new players."* - The ingame inventory.
 
-Brawler is a Kit that you start off with when you join, along with Survivalist.
+Brawler is a Kit that you start off with when you join, along with the Survivalist.
 
 ## Description
 
@@ -82,7 +82,7 @@ Brawler is a close-ranged attacker, specifically with melee weapons.
 
 The Brawler has two abilities
 
-<table class="small-table">
+<table>
   <tr>
     <th>Abilites</th>
     <th>E</th>
@@ -110,6 +110,8 @@ The Brawler has two abilities
 
 *"The survivalist can keep themselves safe throughout runs, being able to give themselves defense boosts and heal much more."* - The ingame inventory.
 
+Survivalist is a Kit that you start off with when you join, along with the Brawler.
+
 ## Description
 
 Survivalist is a close-ranged attacker, focused on dealing less damage, but being able to block out dangerous attacks and outlive most other classes.
@@ -118,7 +120,7 @@ Survivalist is a close-ranged attacker, focused on dealing less damage, but bein
 
 The Survivalist has two abilities
 
-<table class="small-table">
+<table>
   <tr>
     <th>Abilites</th>
     <th>E</th>
@@ -145,3 +147,28 @@ You spawn with a Tough Shield and a Red Heart.
 * Survivalist used to use a copper sword.
 * It used to be the best starting Kit.
 * Survivalist has one of the cheapest invincibility moves next to Adventurer.
+
+<hr id="Ad">
+
+# Adventurer <img src="assets/images/Wooden_Sword.png" width="24px">
+
+*"The Adventurer has an incredibly plain kit, but in turn gains x2 circuits from picking them up."* - The ingame inventory.
+
+Adventurer is a Kit you get from the Class Shop. 
+
+## Description
+
+Adventurer is focused on getting loads of circuits to shop to your hearts content, along with being able to dash out of tricky situations by using the Adventurer Blade.
+
+## Ability
+
+Adventurer has no abilities, unless you count the Adventurer Blade. 
+
+| Ability | E | Description |
+|-|-|-|
+| Dash | 1E | Move forward 5 blocks when on ground, and 12 in the air. You gain resistance while dashing. |
+
+### Trivia
+
+* In the description of the Adventurer Blade, we believe the sword was stolen from Soteria, as it was stolen from a **sleeping woman in a cave**.
+* Adventurer is currently the only kit with a circuit multipli.
