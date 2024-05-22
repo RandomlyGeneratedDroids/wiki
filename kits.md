@@ -340,7 +340,7 @@ Rogue Droid is a kit you get from the Class Shop.
 Rogue Droid is a verstile class with randomness. Rogue Droid uses their abilities to obtain items rather than the shop.
 
 
-## Abilities
+## Items & Abilities
 
 The Rogue Droid has a starting hat, as well as two abilities.
 
@@ -352,5 +352,5 @@ The Rogue Droid has a starting hat, as well as two abilities.
 
 ### Trivia
 * Rogue Droid is the only class that does not can **Not** pick up circuits
-* Is considred by most to be the hardest class to play
-* Has a secret kit upgrade that requires another class to activate.
+* Is commonly considered by most to be the hardest class to play
+* *"Has a secret kit upgrade that requires another class to activate."* - That Guy
