@@ -51,6 +51,7 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Flame-Woven Pads
 | Flame God
 | Flame Path: Fire Serpeant
+| Flameblade (EVO)
 | Food Party
 | Full Charge
 | Group Brace
@@ -91,7 +92,7 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Posture Point
 | Power Heat
 | Prickly Berry
-| Prototype Flameblade
+| <a href="#PFB">Prototype Flameblade</a>
 | Pyren
 | Quick Save
 | Railgun
@@ -130,3 +131,13 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Wind Path: Air Repel
 | Wing Dash
 | Wizard Stick
+
+<hr id="PFB">
+
+## Prototype Flamblade <img src="assets/images/Gold_Sword.png" width="32px">
+
+"A sword which dispenses a thin layer of gasoline through tiny holes along the blade"
+
+The prototype flameblade is a sword that deals increased damage with sweeping attacks and inflicts fire. Some say it is the strongest weapon.
+
+The Prototype Flameblade does **6 Damage + Fire Damage** 
