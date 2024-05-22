@@ -41,7 +41,7 @@ Kits are an essential part of the game, as you are forced to use one of them eve
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;I&quot;}"><img src="assets/images/Infantry.webp"></td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Rogue Droid&quot;}">Rogue Droid</td>
+			<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Rogue Droid&quot;}"><a href="#Rd">Rogue Droid</a></td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;j&quot;}"><img src="assets/images/Rouge_droid.webp"></td>
 	</tr>
 	<tr>
@@ -324,3 +324,33 @@ Infantry is a long range class that specializes in picking off specific enemies.
 
 ### Trivia
 * Infantry was the first class to start with an evolvable weapon, that being Lee-Enfield.
+
+<hr id="Rd">
+
+# Rogue Droid <img src="assets/images/fermented_spider_eye.png" width="32px">
+
+*"Unlike most droids, you function from a brain implanted in you from creation. You are unlike anything else created in this world, unable to connect, but able to function."*
+
+*"A true beauty"* - The ingame inventory.
+
+Rogue Droid is a kit you get from the Class Shop.
+
+## Description
+
+Rogue Droid is a verstile class with randomness. Rogue Droid uses their abilities to obtain items rather than the shop.
+
+
+## Abilities
+
+The Rogue Droid has a starting hat, as well as two abilities.
+
+| Name | Uses | Description |
+|--|-|----|
+| Salvage| 2 Energy | Gives a random droid item. |
+| Modify | 5 Energy | Gives a random droid modifier. |
+| Droid Hat | N/A | You gain 5 max health. |
+
+### Trivia
+* Rogue Droid is the only class that does not can **Not** pick up circuits
+* Is considred by most to be the hardest class to play
+* Has a secret kit upgrade that requires another class to activate.
