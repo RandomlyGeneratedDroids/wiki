@@ -15,6 +15,7 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Artillery Flare
 | Arrow (Rogue droid)
 | Arrow Storm
+| Aura of the Deep
 | Bandages
 | Battery
 | Bell of Consequence
@@ -29,10 +30,13 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Chaos Bolt
 | Chaos Hatchet
 | Chaos Sword
+| Charity
+| Circuit Blade
 | Combat Shield
 | Construct
 | Copper Sword
 | Courage
+| Cursed Blade of Sacrifice
 | Dark Dagger
 | Dark Mist
 | Dark Path: Dark Intensity
@@ -41,11 +45,15 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Droid Cap
 | Droid Cavalry
 | Earthquake
+| Elemental Blade
+| Emergency Relief Fund
 | Enchanted Blade of Wind
 | Encouragement
 | Energy
 | Engineer Banner
+| Enhancement Totem
 | Execute
+| Executioner's Blade
 | Explosive Dam
 | Fierce Rush
 | Flame-Woven Pads
@@ -54,6 +62,7 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Flameblade (EVO)
 | Food Party
 | Full Charge
+| Ground Sail
 | Group Brace
 | Hammer
 | Hatchet
@@ -67,8 +76,11 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Hero Blade (Flame Path)
 | Hero Blade (Ice Path)
 | Hero Blade (Wind Path)
+| Holy Bell
 | Ice Path: Cold Hearted
+| Laptop
 | Lee-Enfield
+| Magician's Robe
 | Magma Whetstone
 | Mana
 | Mana Gain
@@ -82,6 +94,7 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Mysterious Book
 | Nazar
 | Never Give Up
+| Ninja Blade
 | Paladin Chestplate
 | Paladin Helmet
 | Pebble Toss
@@ -90,12 +103,18 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Pie
 | Pine Crossbow
 | Posture Point
+| Potato
+| Potato Helmet
+| Potato Scythe
+| Potato Shooter
+| Potato Tower
 | Power Heat
 | Prickly Berry
 | <a href="#PFB">Prototype Flameblade</a>
 | Pyren
 | Quick Save
 | Railgun
+| Recycling Bin
 | Red Heart
 | Reload
 | Restore
@@ -126,11 +145,12 @@ Ordered in Alphabetical Order. If you find any items that are not on this list, 
 | Tough Shield
 | Vampiric Blade
 | Vow of Evolution
-| Vulture Beamx
+| Vulture Beam
 | Warlock Blade
 | Wind Path: Air Repel
 | Wing Dash
 | Wizard Stick
+| Wrath of Hephaestus
 
 <hr id="PFB">
 
